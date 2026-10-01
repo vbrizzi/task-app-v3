@@ -1,0 +1,8 @@
+﻿{
+  "name": "task-app-v3",
+  "version": "3.0.0",
+  "description": "Task Manager - v3 (version final)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
